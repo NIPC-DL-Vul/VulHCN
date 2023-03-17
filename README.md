@@ -1,7 +1,7 @@
 # VulHCN
 This page includes the code and data used in the paper Focus More on the Small Stuff: Hierarchical Attention-based Capsule Network for Robust Vulnerability Detection.
 
-Instructions for code:
+\textbf{Instructions for code}:
 
 Ubuntu Linux22.04，Python3.10，clang15.0.7，llvm15.0.7，cmake15.0.7
 
