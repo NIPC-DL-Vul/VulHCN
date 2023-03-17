@@ -1,5 +1,5 @@
 # VulHCN
-This page includes the code and data used in the paper Focus More on the Small Stuff: Hierarchical Attention-based Capsule Network for Robust Vulnerability Detection.
+This page includes the code and data used in the paper: Focus More on the Small Stuff: Hierarchical Attention-based Capsule Network for Robust Vulnerability Detection.
 
 Instructions for code:
 
