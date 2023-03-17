@@ -26,3 +26,7 @@ The design of VulHCN
  step5. Encoding intermediate code representations into vectors.
 
  step6. Training the model.
+ 
+If you are interested in our project, please contact gumx@nipc.org.cn for more information. If you use our code and data in your work, please kindly cite our paper in your work.
+
+Thank you.
