@@ -15,14 +15,14 @@ Contributions:
 
 The design of VulHCN
 
-step1. Parsing program source code into LLVM IR form and eliminating programs that cannot be transformed. 
+ step1. Parsing program source code into LLVM IR form and eliminating programs that cannot be transformed. 
 
-step2. Identifying greedy vulnerability-sensitive keywords. 
+ step2. Identifying greedy vulnerability-sensitive keywords. 
 
-step3. Slcing code lines.
+ step3. Slcing code lines.
 
-step4. Formalization of intermediate code representation.
+ step4. Formalization of intermediate code representation.
 
-step5. Encoding intermediate code representations into vectors.
+ step5. Encoding intermediate code representations into vectors.
 
-step6. Training the model.
+ step6. Training the model.
