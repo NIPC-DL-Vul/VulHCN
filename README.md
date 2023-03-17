@@ -20,3 +20,9 @@ step1. Parsing program source code into LLVM IR form and eliminating programs th
 step2. Identifying greedy vulnerability-sensitive keywords. 
 
 step3. Slcing code lines.
+
+step4. Formalization of intermediate code representation.
+
+step5. Encoding intermediate code representations into vectors.
+
+step6. Training the model.
