@@ -2,7 +2,9 @@
 This page includes the code and data used in the paper Focus More on the Small Stuff: Hierarchical Attention-based Capsule Network for Robust Vulnerability Detection.
 
 Instructions for code:
+
 Ubuntu Linux22.04，Python3.10，clang15.0.7，llvm15.0.7，cmake15.0.7
+
 torch1.12.1，graphviz2.38.0，networkx2.8.4，gensim4.3.0，numpy1.23.2
 
 Contributions
